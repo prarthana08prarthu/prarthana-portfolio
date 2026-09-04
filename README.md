@@ -3,3 +3,8 @@ Hi, I’m Prarthana HS, a BTech Computer Science and Engineering student. I am u
 Learning Python
 Interested in cloud computing
 Goal: contribute to open source
+
+## Projects
+
+I am working on a Smart Rainwater System project that uses sensors and IoT technology to monitor and manage rainwater.
+
